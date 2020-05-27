@@ -5,9 +5,9 @@ Aprendizes: Ellen e Karol
 Primeira aula - 26/05
 	- Git Desktop
 	- Clone x Download
-	- Push
-	- Commit
 	- Pull
+	- Commit
+	- Push
 
 TOPZERA!!!
 	
