@@ -16,3 +16,22 @@ Primeira aula - 26/05
 TOPZERA!!!
 	
 Segunda aula - 30/05
+	- SourceTree: GitHub, BitBucker, AzureDevOps (ferramentas que podem ser utilizadas para gerenciar códigos)
+	- Criação de branch: é uma ramificação do projeto
+		A master é a "mãe" do projeto
+	- Merge: inserir o que tem em uma branch em uma outra branch (ou na master)
+	- Resolução de conflitos
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
